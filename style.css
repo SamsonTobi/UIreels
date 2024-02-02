@@ -316,9 +316,6 @@
     gap: 8px;
   }
 
-  .join-waitlist {
-    font-size: 13px;
-  }
 }
 
 @media (max-width: 480px) {
