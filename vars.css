@@ -1,0 +1,94 @@
+/* Figma Styles of your File */
+:root {
+  /* Colors */
+  --accents: #f6f8fc;
+  --neutral-50: #ffffff;
+  --neutral-100: #f8f8f8;
+  --neutral-200: #eeeeee;
+  --neutral-300: #d8d8d8;
+  --neutral-400: #b3b3c0;
+  --neutral-500: #7e7e8e;
+  --neutral-600: #474e60;
+  --neutral-700: #111111;
+  --primary-golden-rod: #ee9d24;
+  --primary-purple-blue: #682bd3;
+  --primary-golden-rod-faded: #f7ce91;
+  --utility-error: #ef3535;
+  --utility-alert-bg: #21094c;
+  --utility-alert-fg: #73648e;
+  --accents-light-green: #d6ffb7;
+  --accents-gradient: linear-gradient(
+    11.04deg,
+    rgba(147, 113, 14, 1) 0%,
+    rgba(241, 169, 4, 1) 100%
+  );
+
+  /* Fonts */
+  --heading-large-font-family: NunitoSans-SemiBold, sans-serif;
+  --heading-large-font-size: 32px;
+  --heading-large-line-height: 118%;
+  --heading-large-font-weight: 600;
+  --heading-large-font-style: normal;
+  --heading-medium-font-family: NunitoSans-Bold, sans-serif;
+  --heading-medium-font-size: 23px;
+  --heading-medium-line-height: normal;
+  --heading-medium-font-weight: 700;
+  --heading-medium-font-style: normal;
+  --nun-paragraph-medium-regular-font-family: NunitoSans-Regular, sans-serif;
+  --nun-paragraph-medium-regular-font-size: 16px;
+  --nun-paragraph-medium-regular-line-height: normal;
+  --nun-paragraph-medium-regular-font-weight: 400;
+  --nun-paragraph-medium-regular-font-style: normal;
+  --nun-paragraph-medium-semibold-font-family: NunitoSans-SemiBold, sans-serif;
+  --nun-paragraph-medium-semibold-font-size: 16px;
+  --nun-paragraph-medium-semibold-line-height: 20px;
+  --nun-paragraph-medium-semibold-font-weight: 600;
+  --nun-paragraph-medium-semibold-font-style: normal;
+  --nun-paragraph-medium-bold-font-family: NunitoSans-Bold, sans-serif;
+  --nun-paragraph-medium-bold-font-size: 16px;
+  --nun-paragraph-medium-bold-line-height: 20px;
+  --nun-paragraph-medium-bold-font-weight: 700;
+  --nun-paragraph-medium-bold-font-style: normal;
+  --nun-paragraph-small-regular-font-family: NunitoSans-Regular, sans-serif;
+  --nun-paragraph-small-regular-font-size: 13px;
+  --nun-paragraph-small-regular-line-height: normal;
+  --nun-paragraph-small-regular-font-weight: 400;
+  --nun-paragraph-small-regular-font-style: normal;
+  --nun-paragraph-small-semibold-font-family: NunitoSans-SemiBold, sans-serif;
+  --nun-paragraph-small-semibold-font-size: 13px;
+  --nun-paragraph-small-semibold-line-height: 20px;
+  --nun-paragraph-small-semibold-font-weight: 600;
+  --nun-paragraph-small-semibold-font-style: normal;
+  --nun-paragraph-small-bold-font-family: NunitoSans-Bold, sans-serif;
+  --nun-paragraph-small-bold-font-size: 13px;
+  --nun-paragraph-small-bold-line-height: 20px;
+  --nun-paragraph-small-bold-font-weight: 700;
+  --nun-paragraph-small-bold-font-style: normal;
+  --nun-paragraph-large-bold-font-family: NunitoSans-Bold, sans-serif;
+  --nun-paragraph-large-bold-font-size: 18px;
+  --nun-paragraph-large-bold-line-height: 20px;
+  --nun-paragraph-large-bold-font-weight: 700;
+  --nun-paragraph-large-bold-font-style: normal;
+  --mont-paragraph-medium-font-family: Montaga-Regular, sans-serif;
+  --mont-paragraph-medium-font-size: 16px;
+  --mont-paragraph-medium-line-height: 20px;
+  --mont-paragraph-medium-font-weight: 400;
+  --mont-paragraph-medium-font-style: normal;
+  --mont-paragraph-small-font-family: Montaga-Regular, sans-serif;
+  --mont-paragraph-small-font-size: 13px;
+  --mont-paragraph-small-line-height: 20px;
+  --mont-paragraph-small-font-weight: 400;
+  --mont-paragraph-small-font-style: normal;
+  --nun-footnote-medium-font-family: NunitoSans-SemiBold, sans-serif;
+  --nun-footnote-medium-font-size: 11px;
+  --nun-footnote-medium-line-height: normal;
+  --nun-footnote-medium-font-weight: 600;
+  --nun-footnote-medium-font-style: normal;
+  --nun-footnote-regular-font-family: NunitoSans-Regular, sans-serif;
+  --nun-footnote-regular-font-size: 11px;
+  --nun-footnote-regular-line-height: normal;
+  --nun-footnote-regular-font-weight: 400;
+  --nun-footnote-regular-font-style: normal;
+
+  /* Effects */
+}
